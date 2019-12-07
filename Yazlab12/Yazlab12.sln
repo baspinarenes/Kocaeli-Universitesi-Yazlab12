@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunucu Kontrol Simülasyonu", "Yazlab Yeni\Sunucu Kontrol Simülasyonu.csproj", "{DD0839F4-0178-4904-A4A3-D5B2DA7B713C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yazlab 2 v1", "Yazlab\Yazlab 2 v1.csproj", "{467FD8DA-B8BA-4BD8-98D3-AD5FA46519CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0839F4-0178-4904-A4A3-D5B2DA7B713C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0839F4-0178-4904-A4A3-D5B2DA7B713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0839F4-0178-4904-A4A3-D5B2DA7B713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0839F4-0178-4904-A4A3-D5B2DA7B713C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467FD8DA-B8BA-4BD8-98D3-AD5FA46519CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467FD8DA-B8BA-4BD8-98D3-AD5FA46519CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467FD8DA-B8BA-4BD8-98D3-AD5FA46519CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467FD8DA-B8BA-4BD8-98D3-AD5FA46519CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87801F47-5F8E-49AE-9055-DA289CF91E6A}
+	EndGlobalSection
+EndGlobal
