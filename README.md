@@ -1,4 +1,4 @@
-# Kocaeli-Universitesi-Yazlab12
+# Kocaeli Üniversitesi Yazılım Laboratuvarı I - 2. Proje
 
 Kocaeli Üniversitesi 3.Sınıf Yazılım Laboratuvarı I dersi 2. projesidir.  
 Projede, multithreading yapısının öğrenilmesi ve ortaya çıkardığı problemlerin çözülmesi amaçlanmıştır.  
